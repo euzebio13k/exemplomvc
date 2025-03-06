@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/euzebio/NetBeansProjects/ExemploMVC/src/exemplomvc/ExemploMVC.java</file>
+            <file>file:/home/euzebio/NetBeansProjects/ExemploMVC/src/bd/ConnectionFactory.java</file>
+            <file>file:/home/euzebio/NetBeansProjects/ExemploMVC/src/modelo/Produto.java</file>
+            <file>file:/home/euzebio/NetBeansProjects/ExemploMVC/exemplomvc.sql</file>
+            <file>file:/home/euzebio/NetBeansProjects/ExemploMVC/src/janelas/JProduto.java</file>
+            <file>file:/home/euzebio/NetBeansProjects/ExemploMVC/src/dao/ProdutoDao.java</file>
+        </group>
+    </open-files>
+</project-private>
